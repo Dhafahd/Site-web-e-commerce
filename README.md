@@ -17,10 +17,8 @@ Laravel is accessible, powerful, and provides tools required for large, robust a
 ## About the project
 
 For this project, we developed an e-commerce website using the Laravel framework. This website consists of two main interfaces:
-
-     - the client interface and the admin interface. The client interface allows the client to browse, select and add articles to their cart, and pay using different payment methods such as PayPal or MasterCard. 
-
-     
+     - the client interface and the admin interface. The client interface allows the client to browse, select and add articles to their cart, and pay using different payment methods such as PayPal or 
+       MasterCard. 
      - The admin interface enables the admin to monitor everything and add, delete or modify any article.
 
 ## Learning Laravel
